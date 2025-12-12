@@ -1,0 +1,5 @@
+{
+  "name": "EmailScout AI",
+  "description": "A powerful tool to extract and discover email addresses from lists of websites using AI-powered search grounding.",
+  "requestFramePermissions": []
+}
